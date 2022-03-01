@@ -1,0 +1,333 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Navigation improv'd: or, The art of rowing ships of all rates, in calms, with a more easy, swift, and steady motion, than oars can. Also, a description of the engine that performs it; and the author's answer to all Mr. Dummer's objections that have been made against it ... By Tho. Savery, gent.</title>
+            <author>Savery, Thomas, 1650?-1715</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06036</idno>
+            <idno type="STC">Wing S773</idno>
+            <idno type="STC">ESTC R183251</idno>
+            <idno type="EEBO-CITATION">52612226</idno>
+            <idno type="OCLC">ocm 52612226</idno>
+            <idno type="VID">179531</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06036)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179531)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Navigation improv'd: or, The art of rowing ships of all rates, in calms, with a more easy, swift, and steady motion, than oars can. Also, a description of the engine that performs it; and the author's answer to all Mr. Dummer's objections that have been made against it ... By Tho. Savery, gent.</title>
+                  <author>Savery, Thomas, 1650?-1715</author>
+               </titleStmt>
+               <extent>[6], 22, [2] p. : ill., fold. diagr.  </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by James Moxon, at the Atlas in Warwick-lane,</publisher>
+                  <pubPlace>London,</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title within double-line border.</note>
+                  <note>Folded diagram between pages 4 and 5.</note>
+                  <note>Advertisement: [2] p. at end.</note>
+                  <note>Reproduction of the original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ship propulsion --  Early works to 1800.</term>
+               <term>Navigation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179531:1"/>
+            <pb facs="tcp:179531:1"/>
+            <pb facs="tcp:179531:2"/>
+            <pb facs="tcp:179531:2"/>
+            <pb facs="tcp:179531:3"/>
+            <pb facs="tcp:179531:3"/>
+            <p>Navigation Improv'd: Or, the ART of Rowing SHIPS Of all Rates, in CALMS, With a more eaſy, ſwift, and ſteady Motion, than OARS can.</p>
+            <p>ALSO, A Deſcription of the ENGINE that performs it; And the Author's ANSWER to all Mr. <hi>Dummer</hi>'s OBJECTIONS that have been made againſt it.</p>
+            <p>
+               <hi>Magna eſt Veritas &amp; Praevalebit.</hi>
+            </p>
+            <p>By <hi>Tho. Savery,</hi> Gent.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>James Moxon,</hi> at the <hi>Atlas</hi> in <hi>Warwick-Lane,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:179531:4"/>
+            <pb facs="tcp:179531:4"/>
+            <head>THE DEDICATION To all the Maſters of the Art OF NAVIGATION</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THE chief Strength and Se<g ref="char:EOLhyphen"/>curity of the Nation as well as the Wealth and Riches of it, depending under God, and our good King, on your Integrity, Courage and Conduct;
+<pb facs="tcp:179531:5"/>I have no reaſon to ſuſpect Men of your Honeſty and Bravery, will ſuffer your Judgments to be by<g ref="char:EOLhyphen"/>aſs'd or prejudiced againſt me, in favour of my Adverſaries, who I think, without much ground, oppoſed the making my EN<g ref="char:EOLhyphen"/>GINE uſeful to the NAVY of <hi>ENGLAND,</hi> as I deſign'd it; for no other reaſon that I know of, than that it is not their own Contrivance: And therefore, as an <hi>Engliſh</hi> Man, and a Lover of my Country, I humbly ſubmit the Juſtice of my Cauſe, and what I here ſay in my Defence, to your Judgment and Candor; and am</p>
+            <closer>
+               <signed>Your humble Servant, <hi>T. S.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:179531:5"/>
+            <head>TO THE READER.</head>
+            <p>KInd Reader, if you give your ſelf the trouble to look into this ſmall Treatiſe, pray read it through, and you will find my Reputation being concern'd, (a thing upon which my Welfare doth depend;) I am ne<g ref="char:EOLhyphen"/>ceſſitated to write it. For after I had troubled my Thoughts and rack'd my Brains, to find out that which a great many have ſpent ſeveral years in vain in the pur<g ref="char:EOLhyphen"/>ſuit of, when I had brought it to a Draught on Paper, and found it approved by thoſe commonly reputed Ingeni<g ref="char:EOLhyphen"/>ous, and receiving Applauſe, with promiſes of great Re<g ref="char:EOLhyphen"/>ward from Court, if the thing would anſwer the end for which I propos'd it: after I had with great Charge and ſeveral Experiments, brought it to do beyond what I ever promis'd or expected my ſelf, at laſt one Man's Hu<g ref="char:EOLhyphen"/>mour, and no more than a Humour, totally obſtructed the uſe of my <hi>ENGINE,</hi> to the great Diſſervice of both
+<pb facs="tcp:179531:6"/>King and Country, and my no ſmall loſs. But it's the nature of ſome Men to decry all Inventions, how ſervice<g ref="char:EOLhyphen"/>able ſoever to the Publick, that are not the Product of their own Brains. I hope therefore you will think me excuſable, if I endeavour to ſatisfy the World, that I do underſtand ſomething of the Buſineſs I pretend to; and if by the means of it Mankind receives any Advan<g ref="char:EOLhyphen"/>tage, I ſhall think my ſelf very happy, for the promoting the common good of every body, hath always been my chief Delight; and certainly, nothing contributes more to it than the Improvements made by the Mechanicks: for that Noble Machine called a <hi>SHIP,</hi> is no more than a Me<g ref="char:EOLhyphen"/>chanick <hi>ENGINE;</hi> which from the time of its firſt In<g ref="char:EOLhyphen"/>vention, has admitted of ſuch Improvements, that its uſe is now prodigious. 'Tis Ships are our beſt Defence a<g ref="char:EOLhyphen"/>gainſt our Enemies, and 'tis Ships bring us in the Wealth of our Friends. The <hi>Griſt-Mill</hi> which finds us Bread, is a <hi>Mechanick Engine</hi> alſo.</p>
+            <p>The <hi>Spinning-Wheel, Loomb,</hi> and <hi>Fulling-Mill,</hi> which cloath us: The <hi>Paper Mill</hi> and <hi>Printing Preſs,</hi> which have their Uſes too; with ſome others that I could name, are all the Products of the <hi>Mechanicks.</hi> And indeed, there are few Benefits we enjoy, if reaſonably conſidered, but are the Product of Project, or the In<g ref="char:EOLhyphen"/>vention of the Induſtrious, whom the Ancients Adored, and Deified, as the Authors of their Happineſs, when they contrived any thing that was for the publick good. Thus <hi>Ceres</hi> was made a Goddeſs, for teaching the Peo<g ref="char:EOLhyphen"/>ple the way to Plough and make Bread; and <hi>Bacchus</hi> was made a God, for informing the World how to make Wine. <hi>Hiſtory</hi> is full of inſtances of this kind, and of the various Honours they did their Benefactors; but this
+<pb facs="tcp:179531:6"/>alas! at preſent, is ſo much neglected and deſpiſed in our Country, and ſo little encouragement given to the Inge<g ref="char:EOLhyphen"/>nious, that 'tis to be feared, <hi>Arts</hi> will decay, and be quite loſt in time, in <hi>England;</hi> which will as certain<g ref="char:EOLhyphen"/>ly bring Poverty, as Clouds and dark Weather bring Rain. For all Countries, as they have either loſt their <hi>Arts,</hi> which many have done, or thoſe Countries which have been always ignorant, at this day remain poor and impotent through the whole Univerſe. 'Tis a great deal of pity that this ſhould be our caſe; and I believe, for ſo ſmall a ſpace and tract of Land as our Iſland contains, no Country in the World abounds with <hi>Men</hi> of more <hi>in<g ref="char:EOLhyphen"/>genious Spirits</hi> than we do: But I am ſorroy to ſay it of ſo <hi>Heroick a People,</hi> That in ſome things they are very effeminate; there being Jew to be found that will any more ſpeak well or approve of what another has done, tho' never ſo deſerving, than any <hi>Female</hi> will allow ano<g ref="char:EOLhyphen"/>ther of her <hi>Sex</hi> to paſs for a <hi>Beauty;</hi> becauſe 'tis not in the nature of <hi>Women</hi> to ſee, or acknowledge good Fea<g ref="char:EOLhyphen"/>tures in any bodies Face but their own. And this on my conſcience, is my caſe; for I can never perſuade my ſelf, that any <hi>Man,</hi> tho' but of common Underſtanding, can ſatisfie himſelf with ſuch weak Objections, as you will find enter'd againſt my <hi>ENGINE;</hi> and more than ſuſpect, there is ſomething of this ſordid barbarous temper in it. But after all, <hi>Courteous Reader,</hi> I ſhall court you to no <hi>Partiality</hi> on my ſide, but leave you at your liberty, to judge of <hi>me</hi> and my <hi>performance,</hi> as in juſtice you ſhall think fit, or as you would have another judge of you, or any Invention of yours, or if it were your own caſe; for my part, all that I deſire, is, <hi>That the World would act Honeſtly, and upon the Square with me;</hi> and
+<pb facs="tcp:179531:7"/>that the <hi>Gentleman</hi> with whom I am concern'd, would give me ſome better <hi>Arguments</hi> to overthrow the Uſe of my <hi>ENGINE,</hi> than hitherto have been produced. 'Tis not my fondneſs of own <hi>Bratt,</hi> only makes me think ſo, but the Opinion of ſeveral very judicious Perſons here in Town, confirm me in my Notion, That the Objections are really no Objections at all; and 'tis the judgment of others more than any conceit of my own, which encou<g ref="char:EOLhyphen"/>raged me to ſtand a Publick Tryal, which nothing elſe could have given me confidence enough to do.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:179531:7"/>
+            <head>Navigation Improvd, <hi>&amp;c.</hi>
+            </head>
+            <p>ABOUT <hi>March</hi> 94. I conſidering with my ſelf how much it was every Man's Duty to aſſiſt his King and Country, to the utmoſt of his Power, according to his Ge<g ref="char:EOLhyphen"/>nius, eſpecially in a time of War. I grew very un<g ref="char:EOLhyphen"/>eaſy, till ſuch time as Providence had directed me in this Matter. After I had employ'd my Thoughts ſome time, I concluded that the chief Strength of <hi>England</hi> lay in the Fleet, and that could we make any Improvement on Shipping, ſo as to give them Motion, when the Enemy could give theirs none; as in Calms, which generally happen in Fights, and at other times very often in the <hi>Summer,</hi> if ſuch Diſ<g ref="char:EOLhyphen"/>covery could be made before the Enemy, the uſe of it would be very Extraordinary. Upon which I nicely conſidered the Nature of <hi>Oars,</hi> after which I contrived an <hi>Engine</hi> more uſeful, and applicable to <hi>Ships.</hi> Which <hi>Engine</hi> and <hi>Oar,</hi> are thus compar'd to each other.</p>
+            <figure>
+               <head>The Figure of an <hi>Oar</hi> for a <hi>Ship.</hi>
+               </head>
+            </figure>
+            <pb n="2" facs="tcp:179531:8"/>
+            <p>Now ſuppoſe the <hi>Oar</hi> at A on the ſide of the Ship B being in a Man's Hand, and C to take hold of the Water: From B to A is but half as long as from A to C; ſo that when the <hi>Oar</hi> is mov'd at B, it moveth twice as far at C at the ſame time; tho' but with half the Strength: for one Man at C would pull as much as two at B, ſo that the <hi>Oar</hi> is nothing more than the <hi>Leaver</hi> reverſed. Which is an Inſtrument us'd by all manner of People, for the Removing great Weights, and is a very pretty Inſtrument for weighing; for with one Pound you may weigh ten, twenty, or hundred, as you may ſee good, as by the following Draught.</p>
+            <figure/>
+            <p>Which is a thing ſo commonly us'd by all ſorts of Traders, who buy and ſell by Weight, that it needs no farther Explanation, than that A is the Center of Gravity, and from thence to A B is 20 times as long as from A to C; ſo that altho' D be 20 times as heavy as B, yet they hang even; for ſhould they incline one way or t'other, B muſt move 20 times the ſpace of D, as in this Figure.</p>
+            <pb n="3" facs="tcp:179531:8"/>
+            <figure/>
+            <p>Where you find that B is removed twenty times the ſpace of the C in the <hi>Leaver,</hi> and in the <hi>Oar</hi> B is removed twice as far as C, by which means B goes twice as faſt, and takes more hold of the Water than otherwiſe it would; and were it longer from A to B, it would ſtill have a greater Sweep; and pro<g ref="char:EOLhyphen"/>vided you have Force enough at C, 'twould ſtill be more uſeful. But the reaſon why <hi>Oars</hi> for Ships are not made four times as long without Board as within, is that then their Bigneſs would make them unhandy: And you could not apply Force enough at C to work them, without ſome Help more than barely Mens Hands. This is plainly ſeen by our <hi>Wherryes,</hi> whoſe <hi>Oars</hi> are four times as long without Board as within; and very few are ignorant of the Swiftneſs of their Motion: and I hope to prove very plainly, That the <hi>ENGINE</hi> I have contriv'd is exactly the Proportion of <hi>Wherry's Oars,</hi> both in Force, and Swiftneſs, and more uſeful than <hi>Oars</hi> of that Proportion, were they practicable, and could be apply'd to a <hi>Ship.</hi> For every body that ever ſaw Rowing, knows that there is as much time and labour ſpent in taking their Stroak with an <hi>Oar,</hi>
+               <pb n="4" facs="tcp:179531:9"/>which is no help to the <hi>Veſſel</hi>'s Motion, as in mak<g ref="char:EOLhyphen"/>ing that Stroak, which is the Occaſion of the Mo<g ref="char:EOLhyphen"/>tion; whereas the Work of this <hi>Engine</hi> is one con<g ref="char:EOLhyphen"/>tinued Stroak, with the ſame Purchaſe or Power in the Water, as <hi>Oars</hi> have, that are four times the Length without Boards as within; ſo that of Courſe the Motion of the <hi>Ship</hi> (moved by this <hi>Engine</hi>) muſt, with the ſame number of Men, be much ſwifter than with <hi>Oars;</hi> and, I hope to prove, near twice as ſwift, when Under-way: But firſt it will be con<g ref="char:EOLhyphen"/>venient to give you a Draught of the <hi>Engine.</hi>
+            </p>
+            <p>Now the <hi>Bars</hi> in the <hi>Capſtand</hi> moving one foot, the <hi>Paddles</hi> move four, which is exact in Proportion to the <hi>Oars</hi> of <hi>Wherryes;</hi> for as much as the <hi>Blade</hi> of ſuch an <hi>Oar</hi> moves four foot for the <hi>Oar</hi>'s moving one: and one pound weight on the <hi>Blade</hi> ſhall weigh four on the <hi>Loom.</hi> So that one pound on the End of the <hi>Paddles,</hi> will weigh four on the <hi>Capſtand Bars,</hi> and no more: and a Man at D, ſtepping three foot, makes L go twelve; as does a Man at the <hi>Loom</hi> of a <hi>Wherry</hi>'s <hi>Oar,</hi> moving three foot, makes the <hi>Blade</hi> go twelve. So that all you have to do, is to make <hi>Paddles</hi> proportionably large to the number of Men you can bring to work at your <hi>Capſtand,</hi> ſo as the Men do not tire themſelves by working too faſt, or too ſlow.</p>
+            <figure/>
+            <figure>
+               <head>
+                  <hi>A Scale, of</hi> 32 <hi>Feet.</hi> DISCRIPTIONS
+<list>
+                     <item>A. The line the Ship makes.</item>
+                     <item>B. The Water line.</item>
+                     <item>C. The Decks.</item>
+                     <item>D. The Capſtand barrs.</item>
+                     <item>E. The Capſtand.</item>
+                     <item>F. a Wheel on the Drum head of the Cap<g ref="char:EOLhyphen"/>ſtand.</item>
+                     <item>G. a Trundle head on the Wheel.</item>
+                     <item>H. an Iron Barr, going through the Trun<g ref="char:EOLhyphen"/>dle head, and through the Sides of the Ship.</item>
+                     <item>I. a Drum heads, like thoſe on the Capſtand</item>
+                     <item>K. Padles. of which 6 or 8 on each Side the Ship are with eaſe Fixed, and unfixed, into the ſaid Drum heads.</item>
+                     <item>L. a pice of Iron, to which a luff Takle may bee Fixed, to lift thoſe that are to Heavey for mens Strength, round each of Which by taking half turns with a Cord they make a Compleat wheel on each Side the Veſſel.</item>
+                  </list>
+               </head>
+            </figure>
+         </div>
+         <div type="account">
+            <pb n="7" facs="tcp:179531:12"/>
+            <head>A ſhort Account of the Uſe of the <hi>Engine,</hi> given to Secretary <hi>Tren<g ref="char:EOLhyphen"/>chard.</hi>
+            </head>
+            <p>THE <hi>Engine</hi> is ſo contriv'd, that being fix'd to any <hi>Ship, Boat,</hi> or <hi>Bark,</hi> &amp;c. in a Calm, it will occaſion the <hi>Ship</hi> to make freſher way than <hi>Oars,</hi> and near as faſt, as an ordinary Gale, when all the Sails can be us'd, which will be very uſeful to the <hi>Royal Navy.</hi> For,
+<list>
+                  <item>Firſt, The Charge is but ſmall.</item>
+                  <item>Secondly, It does not lie in the Sailer's way in any ſort of Buſineſs, either in handing their Sails, Guns, or otherwiſe; but takes up much leſs room than <hi>Oars,</hi> and is eaſily ſtowed ſo, as no way to in<g ref="char:EOLhyphen"/>commode the <hi>Veſſel</hi> in a Storm, or the like.</item>
+                  <item>Thirdly, The work of this <hi>Engine,</hi> is as Natu<g ref="char:EOLhyphen"/>ral to the Sailers, as any other part of their Bu<g ref="char:EOLhyphen"/>ſineſs.</item>
+                  <item>Fourthly, Whereas <hi>Oars</hi> take up that ſpace on each ſide the <hi>Veſſel,</hi> that they require ſome twenty, thirty or fourty foot of each ſide, to paſs between other Ships; now this doth not take up above two, three, or four foot of a ſide.</item>
+                  <item>Fifthly, This <hi>Engine</hi> muſt be very uſeful in <hi>Yachts, Bomb-Boats, Sloops,</hi> &amp;c. and of extraordi<g ref="char:EOLhyphen"/>nary uſe in Fights, to tow off diſabled Ships.</item>
+                  <pb n="8" facs="tcp:179531:13"/>
+                  <item>Sixthly, It is ſo contriv'd, that nothing but a Chance Shot can prejudice it; the Rolling of a common Sea not being able to annoy it.</item>
+               </list>
+            </p>
+            <p>A few Days after, the Secretary told me, that the <hi>King</hi> had ſeen my <hi>Propoſals,</hi> and that I need not fear, for that the <hi>King</hi> had promis'd me a very conſi<g ref="char:EOLhyphen"/>derable Reward; and that I muſt go to the Lords of the <hi>Admiralty,</hi> to put it in Practice: But that firſt I muſt make a <hi>Model</hi> of it in a <hi>Wherry;</hi> which I did, and found it to anſwer my Expectations. Then I ſhew'd a Draught of it to the Lords of the <hi>Admiralty,</hi> who all ſeem'd to like it; and one amongſt them was pleas'd to ſay, That it was the beſt <hi>Propoſal</hi> of its kind he ever ſaw: So I was re<g ref="char:EOLhyphen"/>ferred from them to the <hi>Commiſsioners</hi> of the <hi>Navy,</hi> who all ſeem'd to like it; but told me, that the <hi>Model</hi> muſt be ſurvey'd by Mr. <hi>D....</hi> the <hi>Sur<g ref="char:EOLhyphen"/>veyor</hi> of the <hi>Navy;</hi> whoſe Opinion I ask'd, but he was very reſerv'd, and ſaid, That a <hi>Wherry</hi> was too ſmall a thing to ſhew it in, there being no working at a <hi>Capſtand</hi> in a <hi>Wherry;</hi> but he told me, it was a thing of Moment, and requir'd ſome time to con<g ref="char:EOLhyphen"/>ſider on: <hi>For ſhould I,</hi> ſaid he, <hi>give a raſh Judg<g ref="char:EOLhyphen"/>ment againſt it, I ſhould injure you; or for it, the charge of putting it in Practiſe muſt prove a loſs to the</hi> King, <hi>and indanger my Employ; but if you will</hi> (ſays he) <hi>give me a Draught of the ſeveral ſizes of the</hi> Engine, <hi>I will give you a Draught of the half breadths of the ſeveral Rates, to proportion them by.</hi>
+            </p>
+            <pb n="9" facs="tcp:179531:13"/>
+            <p>The Week following, one Mr. <hi>Fuſer</hi> Under-Surveyor of the <hi>Navy,</hi> came to me from him, with Draughts of the ſeveral half Breadths, which I immediately returned with Draughts of the ſize of each <hi>Engine:</hi> after which Mr. <hi>D...</hi> would never diſcourſe me, or let me know one word of his Opi<g ref="char:EOLhyphen"/>nion; but four Months afterwards ſent a Report of it to the Lords of the <hi>Admiralty,</hi> which I was pre<g ref="char:EOLhyphen"/>pared to anſwer as follow, but was refus'd by their Lordſhips.</p>
+            <p>
+               <hi>Mr.</hi> D...<hi>'s Objections anſwered; which I deſire the</hi> Reader <hi>to take particular Notice of.</hi>
+            </p>
+            <p>Object. the firſt. <hi>That it is the ſame ſort of</hi> Engine <hi>that was uſed in the year</hi> 1682. <hi>at</hi> Chatham, <hi>for the Towing of</hi> Ships, <hi>the charge of which proved a loſs to the</hi> Crown.</p>
+            <p>
+               <hi>Anſ.</hi> I have heard that an <hi>Engine</hi> with two Wheels in the Water, on each ſide the <hi>Veſſel,</hi> was uſed for the Towing of <hi>Ships:</hi> But to ſhew, with Submiſſion, that every Like is not the Same, I humbly beg Your. Lordſhips to conſider, That this <hi>Engine</hi> was not to be taken in Pieces on all occaſions, as Mine is; neither was the <hi>Capſtand,</hi> or what was uſed, as I would the <hi>Capſtand</hi> of a Ship, fit for any other uſe. Whereas by my Contrivance, the <hi>Capſtand</hi> loſes no part of its other Qualities; and I am inform'd by very Ingenious Men, That this differs from that in all its Parts.</p>
+            <pb n="10" facs="tcp:179531:14"/>
+            <p>Object. the ſecond. <hi>I am ſaid to overlook former</hi> Ex<g ref="char:EOLhyphen"/>periments, <hi>and not to give one ſolid Argument.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> I don't ſee how it was poſſible for me to offer a ſolid Argument to Mr. <hi>D...</hi> who never would hear me, tho' I deſired him for near four Months, that I might know what he had to ob<g ref="char:EOLhyphen"/>ject: Or if he met with any Difficulties, I did not queſtion but to make them eaſy; which he ſtill denied me, telling me, That he was throughly Ma<g ref="char:EOLhyphen"/>ſter of the Thing.</p>
+            <p>Object. the third. <hi>That I aſſert it uſeful for</hi> Ships <hi>from two to twenty two foot Draught of Water; whereas the Tow Veſſel in</hi> 82, <hi>drew but four and a half Water the Outſide.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> It is true: But I never ſaid, That it was as eaſy to force a <hi>Ship</hi> of twenty two foot Draught of Water, through the Water, as one of two. But I know very well, that if two foot can by a ſmall force be moved through the Water, that twenty two may. with a proportionable Strength be alſo moved; but if you cannot bring ſo great a Strength propor<g ref="char:EOLhyphen"/>tionable to a <hi>Ship</hi>'s <hi>Capſtand</hi> of twenty two foot, the Motion will be only ſo much the ſlower. And tho' the Tow <hi>Veſſel</hi> in 82, drew but four foot and a half Water, they towed the greateſt <hi>Ships</hi> by the help of four, ſix or eight Horſes. Be pleas'd to note, That an ordinary Horſe is not found to have the Strength of ſix common Sailers; ſo that fourty ſix Men will
+<pb n="11" facs="tcp:179531:14"/>do the work of eight Horſes, whereas I can bring a hundred fourty ſix Men to work on this <hi>Engine,</hi> which is not to Tow by Jerks, but move the <hi>Ship</hi> with a ſteddy and ſtrong Motion, more agreeing to that <hi>Element,</hi> than any other Motion whatſover.</p>
+            <p>Object. the fourth. <hi>The Work by reſiſtance is too great for Horſe or Man.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> If the Objection be true, it is the firſt thing of its kind that could not be wrought by Man or Horſe, and I believe no man of Experience will be of Mr. <hi>D...</hi> 's Mind in this Matter.</p>
+            <p>Object. the fifth. <hi>That I have not conſider'd the Moving equal Bodies</hi> gradatim, <hi>from two to twenty two foot, beſides accidents in</hi> Elements, <hi>which I ſhould have conſider'd by proper Calculations, and not light and fri<g ref="char:EOLhyphen"/>volous Inſtances.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This in my Second <hi>Anſwer</hi> is ſufficiently ſpoken of; and I hope the Judicious <hi>Reader</hi> is fa<g ref="char:EOLhyphen"/>tisfy'd to the contrary of this <hi>Objection.</hi>
+            </p>
+            <p>Object. the ſixth. <hi>Every Body that hath</hi> gravity <hi>is not to be remov'd locally, but by like Body, which is ſu<g ref="char:EOLhyphen"/>perior in weight, or by ſome Body, with addition of pur<g ref="char:EOLhyphen"/>chaſe artificially plac'd, as</hi> Leaver, Pullies, Capſtand, <hi>&amp;c. anſwerable to the Body to be remov'd.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> How two Bodies alike in <hi>gravity,</hi> can be
+<pb n="12" facs="tcp:179531:15"/>one heavier than the other, I am a ſtranger, and ſhould I have ſaid — but to what is ſaid of Purchaſe artifically placed, as <hi>Lea<g ref="char:EOLhyphen"/>ver, Pulley, Capſtand,</hi> &amp;c. anſwerable to the Body to be removed, I am ready by <hi>Mathematical</hi> Demon<g ref="char:EOLhyphen"/>ſtration to, to juſtify this <hi>Engine</hi> to be no more than <hi>Leaver,</hi> and as much alſo artificially placed, with full Power and Purchaſe.</p>
+            <p>Object. the ſeventh. <hi>Whereas the ſuperincombency of Water is always equal in weight to the Body ſubſiding in it: for nothing lighter will ſink, nor heavier ſwim, but being equal, ſubſides by a juſt deciſion of Nature: This weight in the whole Body of a</hi> Ship <hi>whatever it be, is to be removed; but its real and abſtracted weight, I confeſs is much abated in communion with that</hi> Element, <hi>and may make the true weight, which muſt lye on the Purchaſe or Force of ſuch like</hi> Engine, <hi>ſomewhat diffi<g ref="char:EOLhyphen"/>cult to be punctually known; but in the room thereof, we may venture to ſay, That the weight of Air gently fil<g ref="char:EOLhyphen"/>ling all the Sails, and making the Body move a ſpace a little more than is juſt perceivable, is ſuperior, and not to be removed by this</hi> Engine, <hi>occupied by all Men ſail<g ref="char:EOLhyphen"/>ing in the ſaid</hi> Ship.</p>
+            <p>
+               <hi>Anſw.</hi> That the ſuperincombency of Water is equal in weight to the Body ſubſiding in it, is un<g ref="char:EOLhyphen"/>deniable, and of uſe to be known, for the ſinking of mighty hollow Bodies in the Water: Or by large hollow Bodies to bouge up any thing ſunk; for if you know their weight, you may the better by this
+<pb n="13" facs="tcp:179531:15"/>means proportion your Work. But I cannot perceive what relation this has to <hi>Rowing.</hi> I have ſeen one Horſe pull an hundred Tuns through the Water, the length of three Miles, in an hour. But by the Art of Man this Horſe could not have made the <hi>Ship</hi> ſink, or riſe three foot in the time: Now 'tis ſaid, That this Weight, what ever it be, muſt be re<g ref="char:EOLhyphen"/>moved; which a Man's Hand will do in a wet Dock, by the largeſt <hi>Ship</hi> that ever was built, provided the Water in the Dock, nor the Air above it have no perceivable Motion, and the <hi>Hauſers</hi> looſe enough to give the <hi>Ship</hi> leave to move; and this Motion ſhall be perceivable, tho' I own very ſlow. But 146 Men having 146 times the Strength, will make the Motion increaſe to a far greater Swiftneſs, having continued Purchaſe, which all Wheels of this <hi>Engine</hi> have. But it is affirmed poſitively, That if there is as much Wind as will but juſt occaſion a perceivable Motion in the <hi>Ship,</hi> it will be too ſtrong for all the Men in the <hi>Ship</hi> to reſiſt. Now certainly a <hi>Ship</hi> in ſtill Water has been found, by all that have made their Remarks, to be as inclinable to go a Head as a Stern, and that the ſtrength of one Man (as I ſaid before) can occaſion it either way; and I think it abſolutely impoſſible, that a Ships Crew of as many Men as are but in the ſmalleſt Rates, ſhould not have more ſtrength than one man. I am ſatisfied, that none but mad-men ever attempted to Row againſt the Wind with all their Sails ſpread, if there were a poſſibility of furling them. And tho' it be difficult to know exactly what way a Veſſel
+<pb n="14" facs="tcp:179531:16"/>will make in a Tydes way, yet a little experience will teach us, that without all doubt, as exactly as Sailing, or the preſent way of Rowing a Barge, or the like.</p>
+            <p>Object. the eighth. <hi>Nevertheleſs, when Abatements ſhall be made for infinite Accidents by Winds, Tydes, Roughneſs of the Sea, Miſunderſtandings in the Working part, Unevenneſs and Uncertainty of Mens Strenth, Diſ<g ref="char:EOLhyphen"/>location, Frictions, and other unfortunate Incumbrances; ſuch Clock-work under the weight of Ships in the Sea, will ever be lyable to: This Propoſition, in our Opini<g ref="char:EOLhyphen"/>on, can never, by any known Sailor, or other intelligent Man, be thought practicable at Sea.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In Winds and Rough Seas there is no oc<g ref="char:EOLhyphen"/>caſion for this ENGINE, for the Sails will occaſion motion enough. Miſunderſtanding in the VVork<g ref="char:EOLhyphen"/>ing Part may happen, if a Horſe in a Mill can go out this way, but not elſe. Unevenneſs and uncertainty in Men's Strength, may as well obſtruct all the work the Sailers have to do. Diſlocations, <hi>&amp;c.</hi> my Work-man ſtall prevent, or have nothing for his Labour. And I never offer'd that this <hi>Mill-work</hi> (which is call'd <hi>Clock-work</hi>) ſhould ſupport the weight of Ships in the Sea. For ſince I began this <hi>Deſign,</hi> I have ſhewn the Draught to ſe<g ref="char:EOLhyphen"/>veral Sailers, as well as other Intelligent Gentlemen, which I am ſure in number are above two hundred,
+<pb n="15" facs="tcp:179531:16"/>but have not met with any one that could make any reaſonable Objection, but what I ſoon gave them full Satisfaction about. Now I humbly offer, That if my Affirmatives can be eſteem'd in ballance with theſe Contradictions; That this <hi>ENGINE</hi> may be put in Practice but on one Ship, the charge of which will not exceed 70 <hi>l.</hi> the hazard of which ſum is very inconſiderable, weigh'd againſt the Ad<g ref="char:EOLhyphen"/>vantage this <hi>Engine</hi> may be to the <hi>KING</hi>'s Service.</p>
+            <p>When I ſound the Lords of the <hi>Admiralty</hi> ſo much altered, that from commending the Thing, they would not hear one word in its defence; I made bold to ask the Opinion of the greateſt <hi>Engineer</hi> in the <hi>Chriſtian</hi> World, <hi>viz.</hi> Sir <hi>Martin Beckman,</hi> who told me, That the thing was good, and would an<g ref="char:EOLhyphen"/>ſwer my Propoſal; and withall ſaid, that His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> underſtood thoſe things as well as any <hi>Engineer</hi> in the World. Upon which I made my humble Re<g ref="char:EOLhyphen"/>queſt to a moſt Noble Lord, who ſhew'd a Draught of it to the <hi>King;</hi> who being at that time very buſy, ordered me again to the <hi>Almiralty,</hi> who never or<g ref="char:EOLhyphen"/>dered me in before them, but after waiting 2 or 3 Days, the Door-keeper told me, that my Buſineſs lay before the <hi>Navy.</hi> Upon which, the next Day I deſired a Friend of mine to go with me to the <hi>Navy Office;</hi> that he being a Man of Exttaordinary Judgment, and no leſs Reputation, might be an Evi<g ref="char:EOLhyphen"/>dence of what Diſcourſe might happen: But coming to the <hi>Navy Office,</hi> we found the <hi>Board</hi> was roſe. However, in the Hall I found Mr. <hi>D....</hi> I as'd
+<pb n="16" facs="tcp:179531:17"/>him, Whether any thing was come before the Board concerning my Buſineſs? <hi>No,</hi> ſaid he, <hi>not ſince the Objections ſent to the Lords of the Admiralty;</hi> on which, he could not but fall into an Argument.</p>
+            <p>I asked him ſome Queſtions in relation to his Ob<g ref="char:EOLhyphen"/>jections; and in a very little time, we had a great puther about ſuperambient Air and Water. I found that my Sailer run himſelf faſt aground, as Men commonly do when out of their Knowledge. This indeed made me pity him again, altho' I was willing to come to the plain truth of the matter; and asked him, Whether or no he could not bring 150 Men to work at this ENGINE? He anſwered, Yes. Then ſaid I, Will they not have as much power to give a Ship motion, as 150 Men would have on Shore at a <hi>Hawſer,</hi> faſtened to the Ship? This he likewiſe anſwered in the affirmative: Then ſaid I, it will do more than Oars, or any thing but a Gale of Wind, and fully anſwer my Propoſals. Well, ſaid he, with a Smile, and putting off his Hat, as taking leave, we are all Submiſſion to the Lords of the Admiralty; and ſo went off. Not long after, a Friend of mine met a Commiſſioner of the Navy; and my Friend being perfectly acquainted with my Contrivance, asked the Commiſſioner, Why it was not put in uſe by them? The Gentleman offered ſeveral Objections; which were by ſound reaſon, ſo fully anſwered by my Friend, that he had only this hole to creep out at: <hi>Sir,</hi> ſaid he, <hi>have we not a parcel of Ingenious Gentlemen at the Board?</hi> Yes,
+<pb n="17" facs="tcp:179531:17"/>
+               <hi>ſaid my Friend,</hi> I hope ſo, or 500 <hi>l. per Annum</hi> is paid them to a fine purpoſe. <hi>Is not Mr.</hi> D.... (ſays the Commiſſioner) <hi>one of them, and an ingeni<g ref="char:EOLhyphen"/>ous Man?</hi> I hope ſo, <hi>continued my Friend. Then,</hi> ſaid he, <hi>What have interloping People, that have no concern with us, to do, to pretend, to contrive or invent things for us?</hi>
+            </p>
+            <p>So Reader, here you may ſee what to truſt to, tho' you have found out an Improvement as great to Shipping, as turning to Windward or the Compaſs; unleſs you can ſit round the Green-Table in <hi>Crutch<g ref="char:EOLhyphen"/>ed-Friars,</hi> your Invention is damned of courſe: and yet ſome of theſe People did own to me in private, That it was pity this ENGINE was not put in pra<g ref="char:EOLhyphen"/>ctice, for that it would be of ſingular uſe; but I find, there are a ſort of People in the World, that will rather diſſerve King and Country, than diſob<g ref="char:EOLhyphen"/>lige, or run counter to one another, in things of great and ſmall importance. I know not how Mr. <hi>D...</hi> will clear his Objections, and make them appear truth to the World; tho' I am ſatisfied, that he will not want for thoſe that will aſſiſt him, tho' never ſo contrary to reaſon; and at preſent, I think it behoves them ſo to do, or honeſtly to recant. I hope none that read this, but will find Mr. <hi>D....</hi> 's Arguments very weak to obſtruct for ſo many Years together, a thing of that Uſe and Service to the Nation, that this would have been; and tru<g ref="char:EOLhyphen"/>ly, unleſs Mr. <hi>D....</hi> do publiſh better Reaſons than he has yet done, I ſhall think, and queſtion
+<pb n="18" facs="tcp:179531:18"/>not, but ſome hundreds more will be of my opimon, that had he lived in the time that the Compaſs was found out, if he could not have laid Claim to that unparralel Diſcovery, he would have obſtructed its uſe to the utmoſt of his power.</p>
+            <p>The laſt year I made ſufficient demonſtration of the uſe of my ENGINE on the <hi>THAMES,</hi> of which thouſands were Eye-witneſſes, and all People ſeem'd to like it; the Publick News Papers ſpeaking very largely of it, yet all to no purpoſe. I can bring Men of undoubted Reputation, to juſtifie, that with a ſmall Yatcht that I fix'd it to, I once below Bridge made better way; or out went a Ketch in a Gale of Wind, who had all her Sails ſpread, <hi>viz.</hi> Main Sail, Main Top-Sail, Main Top-Gallant Sail, Fore-Sail, Gib-Stay Sails, and Mizon; and we had the help of nothing but eight Sailors working at this ENGINE, and yet the Veſſel I uſed this ENGINE in, was far more improper for it than any Veſſel in the King's Service; and would my circumſtances have afforded it, I would have fitted out a large Veſſel my ſelf, it being chiefly proper for ſuch; but I thought that occular Demonſtration would do, tho' in never ſo ſmall a Model, which made me be<g ref="char:EOLhyphen"/>gin with a Wherry; and by that time I had ſolici<g ref="char:EOLhyphen"/>ted up and down, and made an ENGINE fit for a Yatcht, I found the Expence too great for me, and was forced to deſiſt: for altho' the ENGINE did not coſt much, yet the continual charge of going with the Yacht, was conſiderable; inſomuch, that
+<pb n="19" facs="tcp:179531:18"/>that my endeavour to ſerve my Country, has coſt me above 200 pounds. Yet the charge of this EN<g ref="char:EOLhyphen"/>GINE in ſuch a Veſſel as the Royal Tranſport, will not exceed 50 pound; and tho' I have a Patent for it, yet the firſt Captain of a Frigot that deſires it, I will aſſiſt in the making of it, aboard his Ship <hi>gratis;</hi> and that he may be certain, that I won't impoſe upon him, he ſhall have liberty to uſe his own Workmen: but this I will only do by the firſt comer, and I doubt not, but when the Ice is once broke, I ſhall at leaſt receive thanks for my paſt Labour and Expence.</p>
+            <p>I have, beſides the ENGINE before-mentioned, made ſeveral uſeful Diſcoveries; of which I will give ſome account, it not being altogether out of its place; which is a method whereby I will fight any Ship, uſing Charge and Diſcharge as often as ſix or eight do now, and to as much purpoſe, without any manner of incommodation more than by the common way: ſo that one half of the Men need not be expo<g ref="char:EOLhyphen"/>ſed that now are, and the reſt may be kept as a re<g ref="char:EOLhyphen"/>ſerve for Boarding, <hi>&amp;c.</hi> the benefit of this I leave to the ingenious Sailor; beſides which, I have in<g ref="char:EOLhyphen"/>vented a Gin of 14 inches ſquare, portable by one Man, by which one Man may lift the largeſt Can<g ref="char:EOLhyphen"/>non or Mortar into her Carriadge. But I will never diſcover one title of either of theſe, till I find juſtice done me on account of my Rowing <hi>ENGINE,</hi> I mean that it is put in Practice, and I am Rewarded; or elſe, that it is proved uſeleſs by an Argument, or Ex<g ref="char:EOLhyphen"/>periment; not by ſuch Objections as Mr. <hi>D....</hi>
+               <pb n="20" facs="tcp:179531:19"/>who talks of the weight of Ships in the Sea lying on this Clockwork; by which I believe, neither he him<g ref="char:EOLhyphen"/>ſelf, nor any one elſe, knows what he means: for this ENGINE is not to be under Ships in the Sea, nor to lift Ships out of the Water, but to occaſion Motion; which, as I ſhewed before, that even the ſmalleſt Force will do; and the greater the Force is, the better or ſwifter the Motion will be: but to a<g ref="char:EOLhyphen"/>void trouble to any, who ſhall think fit to write a<g ref="char:EOLhyphen"/>gainſt it, I ſhall give an account of ſome other Ob<g ref="char:EOLhyphen"/>jections that have been raiſed againſt it, which I have met with.</p>
+            <list>
+               <item>Object. the Firſt. <hi>It is lyable to be ſhot.</hi>
+               </item>
+               <item>Object. the Second. <hi>It will lye in the way.</hi>
+               </item>
+               <item>Object. the Third. <hi>That the Wheel and Trundle may be out of order, and is not to be mended by a Ship Carpenter.</hi>
+               </item>
+            </list>
+            <p>
+               <hi>Anſw. the Firſt.</hi> A Captain may be ſhot, and a good and brave Man's Life loſt, will you not there<g ref="char:EOLhyphen"/>fore have good Captains? A Yard by a Shot, ſome<g ref="char:EOLhyphen"/>times from the Top-maſt Head, deſcends to the mens Heads on the Deck, will you therefore have no Sails? But this <hi>ENGINE</hi> is the leaſt lyable to be injured by a Shot of any thing: for tho' it break ſome of the Paddles, you ſuffer no inconvenience, as I have tryed by taking ſome out. Should a Shot take all the Paddles off of one ſide, the Veſſel will
+<pb n="21" facs="tcp:179531:19"/>make near as good a way as before, and ſtear nigh as well: and truly I think, it muſt be a very odd Shot that can totally diſable this <hi>ENGINE,</hi> ſo as a ſmall time will not repair it. And I think the Rud<g ref="char:EOLhyphen"/>der in ten times more danger; yet a man would de<g ref="char:EOLhyphen"/>ſervedly be thought mad, that would have no Rud<g ref="char:EOLhyphen"/>der to a Ship. But, ſuppoſe at any time, that this <hi>ENGINE</hi> is diſabled, the Ship is ſtill in as good or<g ref="char:EOLhyphen"/>der as any Ship now is, if ſhe has no other harm; and it will be ill luck indeed, if there are three or four Ships together, and all are diſabled at the ſame time.</p>
+            <p>
+               <hi>Anſw. the Second.</hi> For its being in the Way, I know of nothing about it that can be thought to be ſo, but the Bar, or the Paddles for the Bar. Now I deſire the Sailors to ſtoop a little when they go under it, and when they do not uſe the Paddles, to ſtow them on the Boom under the Long-Boat, their Shape ma<g ref="char:EOLhyphen"/>king them very proper for that place.</p>
+            <p>
+               <hi>Anſw. the Third.</hi> For a Shipwright's not under<g ref="char:EOLhyphen"/>ſtanding, or not being able to mend the Wheel and Trundle, it is next to impoſſible; for without Flat<g ref="char:EOLhyphen"/>tery, the men of that Profeſſion, of all the Brothers of the Broad-Ax, are the moſt general Workmen; and it is hard to find a Shipwright, but either is, or with little trouble will be, on occaſion, Houſe-Car<g ref="char:EOLhyphen"/>penter, Joyner, VVheel-wright, Mill-wright, Cooper, or what you pleaſe of that kind.</p>
+            <pb n="22" facs="tcp:179531:20"/>
+            <p>All that I have now to add, is, That whoever is angry with Truth, for appearing in mean Language, may as well be angry with a wiſe and honeſt man for his plain Habit: for indeed, it is as common for Lyes and Nonſence to be diſguiſed by a jingle of VVords, as for a Block-head to be hid by abundance of Peruke.</p>
+            <p>I have had my Patent for this <hi>Engine,</hi> about Two years, and am ſorry it was not put in practice in time of VVar, becauſe of the uſe it might have been of Aboard His Majeſties Navy; however, Men of ſenſe will ſee, it may be put in practice with good Advantage in time of Peace; and I hope, its Novel<g ref="char:EOLhyphen"/>ty will not hinder an Experiment of it.</p>
+            <q>
+               <l>Wherefore, fly no Invention, 'cauſe 'tis New,</l>
+               <l>But ſtrictly ſearch; and after careful View</l>
+               <l>Reject if falſe, embrace it if 'tis True.</l>
+               <bibl>
+                  <hi>Creech</hi>'s <hi>Lucretius.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:179531:20"/>
+            <head>Books Printed, and Sold by <hi>James Moxon</hi> at the <hi>Atlas</hi> in <hi>Warwick-Lane.</hi>
+            </head>
+            <p>A <hi>Tutor to Aſtronmy and Geography,</hi> orthe Uſe of both the <hi>GLOBES, Celeſtial</hi> and <hi>Terreſtrial;</hi> by <hi>Joſeph Moxon,</hi> A member of the Royal Society, and Hydrographer to the Kings moſt Excellent Majeſty, price 5 <hi>s.</hi>
+            </p>
+            <p>The uſe of the <hi>Copernican Spheres,</hi> Teaching to ſolve the <hi>Phae<g ref="char:EOLhyphen"/>nomena</hi> By them, as eaſily as by the <hi>Ptolomaick Spheres,</hi> by <hi>Jo<g ref="char:EOLhyphen"/>ſeph Moxon,</hi> &amp;c, price 4 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Wright</hi>'s Correction of Errors in the Art of <hi>Navigation,</hi> price 8 <hi>s.</hi>
+            </p>
+            <p>An exact Survey of the <hi>Microcoſm,</hi> being an <hi>Anatomy</hi> of the Bodies of <hi>Man</hi> and <hi>Woman,</hi> wherein the Skin, Veins, Nerves, Muſcles, Bones, Sinews, and Ligaments are accurately deline<g ref="char:EOLhyphen"/>ated. Engraven on large Copper plates, printed and curiouſ<g ref="char:EOLhyphen"/>ly paſted together, ſo as at firſt ſight you may behold all the parts of <hi>Man</hi> and <hi>Woman;</hi> and by turning up of ſeveral Diſſe<g ref="char:EOLhyphen"/>ctions of the papers, take a view of all their Inwards; with Alphabetical References to the Names of every Member and part of the Body. Set forth in Latin by <hi>Remelinus</hi> and <hi>Michael Spaher</hi> of <hi>Tyrol;</hi> and Corrected by <hi>Clopton Havers,</hi> M. D. and Fellow of the Royal Society, plain 15 <hi>s.</hi> Coloured 30 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Vignola,</hi> or the <hi>Compleat Architect;</hi> ſhewing in a plain and eaſie way, the Rules of the five Orders in <hi>Architecture,</hi> viz. <hi>Tuſ<g ref="char:EOLhyphen"/>can, Dorick, Ionick, Corinthian,</hi> and <hi>Compoſite;</hi> whereby any that can but read and underſtand <hi>Engliſh,</hi> may readily learn the proportions that all Members in a Building have to one ano<g ref="char:EOLhyphen"/>ther: Set forth by Mr. <hi>James Barrozzio</hi> of <hi>Vignola,</hi> and Tranſla<g ref="char:EOLhyphen"/>ted into <hi>Engliſh</hi> by <hi>Joſeph Moxon,</hi> &amp;c. price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>Compendium Euclidis Curioſi:</hi> Or, <hi>Ceometrical Operations.</hi> ſhew<g ref="char:EOLhyphen"/>ing how with one ſingle opening of the Compaſſes, and a ſtraight Ruler, all the Propoſitions of <hi>Euclid</hi>'s firſt five Books are perform'd. Tranſlated out of <hi>Dutch</hi> into <hi>Engliſh.</hi> By <hi>Jo<g ref="char:EOLhyphen"/>ſeph Moxon,</hi> &amp;c. Price 1 <hi>s.</hi>
+            </p>
+            <p>An <hi>Introduction</hi> to the Art of <hi>Species.</hi> By Sir <hi>Jonas Moor,</hi> price 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:179531:21"/>
+            <p>
+               <hi>Chriſtiologia,</hi> or a brief but true Account of the certain Year Month, Day, and Minute of the Birth of <hi>Jeſus Chriſt.</hi> By <hi>J. Butler,</hi> B. D. and Chaplain to his Grace <hi>James</hi> Duke of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> &amp;c. and Rector of <hi>Lichborough</hi> in the Dioceſs of <hi>Peter-borough,</hi> price 3 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+            <p>
+               <hi>A Tutor to Aſtrology,</hi> or <hi>Aſtrology made eaſie;</hi> being a plain Introduction to the whole Art of Aſtrology; whereby the meaneſt Apprehenſion may learn to Erect a Figure, and by the ſame to give a determinate Judgment upon any Queſtion or Nativity whatſoever. Alſo new Tables of Houſes, calculated for the Latitude of 51 degr. 32 minutes. Alſo Tables of Right and Oblique Aſcenſions to 6 degr. of Latitude. Whereunto is added an <hi>Ephemeris</hi> for three years; with all other neceſſary. Tables that belong to the Art of Aſtrology. Alſo to Erect a Figure the Rational way, by the Tables of Triangles, more methodically than hath yet been publiſhed, digeſted into a ſmall Pocket Volume, for the conveniency of thoſe that erect Figures abroad. By <hi>W. Eland,</hi> price 2 <hi>s.</hi>
+            </p>
+            <p>The Uſe of a Mathematical Inſtrument called a <hi>Quadrant,</hi> ſhewing very plainly and eaſily to know the exact Heighth and Diſtance of any Steeple, Tree or Houſe, <hi>&amp;c.</hi> Alſo to know the Hour of the Day by it; the heighth of the Sun, Moon, or Stars; and to know the time of the Sun-riſing, and the length of every day in the year, the place of the Sun in the Ecliptick, the Azimuth, Right Aſcenſion, and Declination of the Sun: with many other neceſſary and delightful Concluſions: per<g ref="char:EOLhyphen"/>formed very readily. Alſo the Uſe of the Nocturnal, where<g ref="char:EOLhyphen"/>by you may learn to know the Stars in Heaven and the Hour of the Night by them; with many other delightful Operati<g ref="char:EOLhyphen"/>ons, price 6 <hi>d.</hi>
+            </p>
+            <p>A brief Diſcourſe of a Paſſage by the North Pole, to <hi>Japan, China,</hi> &amp;c. pleaded by three Experiments and Anſwers to all Objections that can be urged againſt a Paſſage that way: As 1. By a Navigation into the North-pole, and two Degrees be<g ref="char:EOLhyphen"/>yond it. 2. By a Navigation from <hi>Japan</hi> towards the North-Pole. 3. By an Experiment made by the <hi>Czar</hi> of <hi>Muſcovy,</hi> whereby it appears, that to the Northward of <hi>Nova Zembla</hi> is a free and open Sea as far as <hi>Japan, China,</hi> &amp;c. With a Map of all the diſcovered Land neareſt to the Pole. By <hi>Joſeph Mox<g ref="char:EOLhyphen"/>on,</hi> &amp;c. price 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:179531:21"/>
+            <pb facs="tcp:179531:22"/>
+            <pb facs="tcp:179531:22"/>
+         </div>
+      </back>
+   </text>
+</TEI>
